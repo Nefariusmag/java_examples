@@ -1,6 +1,6 @@
 public class Queue {
-    char q[]; // массив для хранения элементов очереди
-    int putloc, getloc; // индексы для вставки и извлечения элементов очереди
+    private char q[]; // массив для хранения элементов очереди
+    private int putloc, getloc; // индексы для вставки и извлечения элементов очереди
 
     Queue (int size) {
         q = new char[size+1]; // выделить память для очереди
@@ -65,5 +65,10 @@ class QDemo {
             ch = smallQ.get();
             if(ch != (char) 0) System.out.print(ch);
         }
+
+//        Queue test = new Queue(10);
+//        test.q[0] = 99;
+//        test.putloc = -100;
+
     }
 }

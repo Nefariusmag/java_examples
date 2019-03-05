@@ -19,7 +19,7 @@ public class Bubble {
                 }
             }
 
-        System.out.print("Исходный массив");
+        System.out.print("Отсортированный массив");
         for (int i=0; i < size; i++)
             System.out.print(" " + nums[i]);
         System.out.println();
