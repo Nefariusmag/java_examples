@@ -1,3 +1,5 @@
+package shildt;
+
 public class ContinueText {
     public static void main (String args[]) {
         int i;

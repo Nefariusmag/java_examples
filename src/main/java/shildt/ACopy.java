@@ -1,3 +1,5 @@
+package shildt;
+
 public class ACopy {
     public static void main(String args[]) {
         int i;

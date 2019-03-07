@@ -1,3 +1,5 @@
+package shildt;
+
 public class MixMax {
     public static void main(String args[]) {
         int nums[] = new int[10];

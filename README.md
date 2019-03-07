@@ -1,23 +1,23 @@
 Test example from book Shildt 
 
-ACopy - Скопировать массив в другой такой же по длинне, но пустой
+shildt.ACopy - Скопировать массив в другой такой же по длинне, но пустой
 
-BreakTest - Переход по break по блокам
+shildt.BreakTest - Переход по break по блокам
 
-Bubble - Сортировака массива пузырьком
+shildt.Bubble - Сортировака массива пузырьком
 
-CLDemo - Работа с переменными переденными методу как с массивом аргументов
+shildt.CLDemo - Работа с переменными переденными методу как с массивом аргументов
 
-ContinueText - Continue в цикле for
+shildt.ContinueText - Continue в цикле for
 
-ForTest - for с двумя элементами в сччетчике
+shildt.ForTest - for с двумя элементами в сччетчике
 
-GeometricProgression - геометрическая прогрессия
+shildt.GeometricProgression - геометрическая прогрессия
 
-MixMax - вычисление минимального \ максимального значения массива
+shildt.MixMax - вычисление минимального \ максимального значения массива
 
-NoChange - один из вариантов for
+shildt.NoChange - один из вариантов for
 
-Queue - очередь с заполеннием алфавитом
+shildt.Queue - очередь с заполеннием алфавитом
 
-ReadConsole - System.out.read for stop app
+shildt.ReadConsole - System.out.read for stop app

@@ -1,3 +1,5 @@
+package shildt;
+
 public class Queue {
     private char q[]; // массив для хранения элементов очереди
     private int putloc, getloc; // индексы для вставки и извлечения элементов очереди
@@ -66,7 +68,7 @@ class QDemo {
             if(ch != (char) 0) System.out.print(ch);
         }
 
-//        Queue test = new Queue(10);
+//        shildt.Queue test = new shildt.Queue(10);
 //        test.q[0] = 99;
 //        test.putloc = -100;
 

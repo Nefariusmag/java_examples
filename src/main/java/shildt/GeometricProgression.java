@@ -1,3 +1,5 @@
+package shildt;
+
 public class GeometricProgression {
 
     public static void main (String args[]) {
