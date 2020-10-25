@@ -1,2 +1,4 @@
-target/
-.idea/*
+Shildt/target/
+JavaEETest/target/
+Shildt/.idea/*
+JavaEETest/.idea/*
